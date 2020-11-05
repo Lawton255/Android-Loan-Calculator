@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Loan Calculator</string>
+    <string name="loan_amount_view">Loan Amount : </string>
+    <string name="loan_amount_txt">Amount</string>
+    <string name="interest_rate_view">Interest rate(%) : </string>
+    <string name="interest_rate_txt">Rate</string>
+    <string name="period_view">Months : </string>
+    <string name="period_txt">Months</string>
+    <string name="btn_calculate">Calculate Payments</string>
+    <string name="monthly_result_view">Monthly Payments : </string>
+    <string name="view_monthly"> </string>
+    <string name="total_result_view">Total Payments : </string>
+    <string name="view_total"> </string>
+
+
+</resources>
